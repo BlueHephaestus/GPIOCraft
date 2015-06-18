@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ioport",
+  "name": "I/O Port Mod",
+  "description": "General Purpose Input/Output Block to send data from Minecraft using Redstone, to serial ports and as such, hardware.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/DarkElement75/GPIOCraft",
+  "updateUrl": "",
+  "authorList": ["DarkElement, vdamewood"],
+  "credits": "Blake Edwards(DarkElement), and Vincent Damewood(vdamewood)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
