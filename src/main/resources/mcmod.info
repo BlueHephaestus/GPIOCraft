@@ -1,6 +1,6 @@
 [
 {
-  "modid": "ioport",
+  "modid": "gpiocraft",
   "name": "I/O Port Mod",
   "description": "General Purpose Input/Output Block to send data from Minecraft using Redstone, to serial ports and as such, hardware.",
   "version": "${version}",

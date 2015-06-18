@@ -1,4 +1,4 @@
-package com.gpiocraft.ioport;
+package com.vdamewood.gpiocraft;
 
 import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;
